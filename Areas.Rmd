@@ -28,4 +28,10 @@ AreaTriangulo <- function(base, altura) {
   (base * altura) / 2
 }
 ```
+# Area de rectangulo
+```{r}
+AreaRectangulo <- function(base, altura) {
+  base * altura
+}
 
+```
